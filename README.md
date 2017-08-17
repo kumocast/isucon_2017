@@ -20,3 +20,8 @@ ISUCON（Iikanjini Speed Up Contest）はLINE主催のウェブアプリチュ�
 
 ## その他参考リンク
 良い感じの記事等あったらこの行を消してここへどうぞ
+
+## その他メモ
+Scrapboxの方に雑に書いています。
+
+- [https://scrapbox.io/kumocast-isucon-2017/ kumocast-isucon-2017 - Scrapbox]
